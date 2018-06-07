@@ -10,6 +10,8 @@ _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`
 
 ---
 
+#Это мой файл ридмиы
+
 ### Памятка
 
 #### 1. Зарегистрируйтесь на Гитхабе
